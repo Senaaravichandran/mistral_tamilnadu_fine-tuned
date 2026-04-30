@@ -10,7 +10,7 @@
 
 ## 🤖 Model (Hugging Face)
 
-👉 https://huggingface.co/Senaa2402/mistral-qlora
+👉 https://huggingface.co/Senaa2407/mistral-qlora
 
 ---
 
